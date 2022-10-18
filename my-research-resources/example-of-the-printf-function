@@ -1,4 +1,4 @@
-//This is an example from Stack overflow, whereby a function 'MyPrintf', similar to the 'printf' function is created
+//This is an example whereby a function 'MyPrintf', similar to the 'printf' function is created
 #include <stdio.h> 
 #include <stdarg.h>                      
 
